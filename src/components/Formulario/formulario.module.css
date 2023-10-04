@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 820px;
+    height: 500px;
+    margin-top: 300px;
+    background-color: #24d1a6;
+    border-radius: 5px;
+}
+
+.title {
+    margin-bottom: 80px;
+    font-weight: bold;
+    border-bottom: 3px solid black;
+}
+
+.form {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.input {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(232, 232, 232);
+}
